@@ -1,0 +1,22 @@
+{
+    "AS_ListBox_a81d0eb7d654406ba9d2680ede40db4d": {
+        "id": "AS_ListBox_a81d0eb7d654406ba9d2680ede40db4d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVideo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "8422d716b3c04da08d6044dbd10cdac5"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onSelection_a5b1d5e3a3e64ac0b218149d82d0aad4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setCameraSource();",
+            "callbackType": null
+        }]
+    }
+}

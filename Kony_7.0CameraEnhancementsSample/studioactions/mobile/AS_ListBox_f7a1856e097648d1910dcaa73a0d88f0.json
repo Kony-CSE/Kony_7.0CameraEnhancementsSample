@@ -1,0 +1,17 @@
+{
+    "AS_ListBox_f7a1856e097648d1910dcaa73a0d88f0": {
+        "id": "AS_ListBox_f7a1856e097648d1910dcaa73a0d88f0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVideo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c821062521884c079501052049abe7be"
+        },
+        "actions": []
+    }
+}

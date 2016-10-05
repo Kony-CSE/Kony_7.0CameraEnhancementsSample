@@ -1,0 +1,23 @@
+{
+    "AS_Camera_6ed0c490cbf24068954839bdf4d557e4": {
+        "id": "AS_Camera_6ed0c490cbf24068954839bdf4d557e4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPhoto",
+            "type": "forms",
+            "platform": "",
+            "KUID": "90a7077da8e049d5afc5d15d70e4bcda"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__505f74998778441693d0da261c01d347",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setPhoto();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

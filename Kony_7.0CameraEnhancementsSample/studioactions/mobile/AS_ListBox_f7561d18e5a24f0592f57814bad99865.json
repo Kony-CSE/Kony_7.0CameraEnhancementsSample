@@ -1,0 +1,23 @@
+{
+    "AS_ListBox_f7561d18e5a24f0592f57814bad99865": {
+        "id": "AS_ListBox_f7561d18e5a24f0592f57814bad99865",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVideo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c821062521884c079501052049abe7be"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__aa6f1435cbb142c5962670d43b980761",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setCameraFlashMode();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_e3235856a5ff476280bbf2ab3442bf08": {
+        "id": "AS_Button_e3235856a5ff476280bbf2ab3442bf08",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmGallery",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb7455f012b64ee8a840db70cb3a0b7e"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__5c1ae0942f284e7cb173344a1ff6f8b6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "openGalleryVideo();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

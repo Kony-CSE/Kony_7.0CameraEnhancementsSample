@@ -1,0 +1,23 @@
+{
+    "AS_Form_573f21e8d1104b5da838044bb9879b9b": {
+        "id": "AS_Form_573f21e8d1104b5da838044bb9879b9b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStart",
+            "type": "forms",
+            "platform": "",
+            "KUID": "61531262d4834e48a86a55a0e529f2b8"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__d1837582ddab4591b1765f49185c69b7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmStart.dummycamera.cameraOptions={flashMode:constants.FLASH_MODE_ON}",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb077867a4d84f59bef69cdaba5ff8b4",
+    "_text_": "Video",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sbff2f2163ea43988dc5119212544718",
+    "id": "btnVideo",
+    "ide_onClick": "AS_Button_bd45787f426542e680eb3d8c85c6620b",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d513b7bd5dbc4cceae687884ebf7d111",
+    "name": "kony.ui.Button",
+    "parent": "frmStart",
+    "pf": "frmStart",
+    "wType": "Button"
+}

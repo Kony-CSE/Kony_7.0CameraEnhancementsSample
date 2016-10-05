@@ -1,0 +1,22 @@
+{
+    "AS_ListBox_9b7f178d1409408fa9c5000fae36eb4c": {
+        "id": "AS_ListBox_9b7f178d1409408fa9c5000fae36eb4c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVideo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "8422d716b3c04da08d6044dbd10cdac5"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onSelection_8ad881e7e1c447af92b47a72ec7477ac",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setCameraFocusMode();",
+            "callbackType": null
+        }]
+    }
+}

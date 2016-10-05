@@ -1,0 +1,17 @@
+{
+    "AS_Form_071df7fe4481426bbb76294cbbb1b889": {
+        "id": "AS_Form_071df7fe4481426bbb76294cbbb1b889",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVideo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c821062521884c079501052049abe7be"
+        },
+        "actions": []
+    }
+}

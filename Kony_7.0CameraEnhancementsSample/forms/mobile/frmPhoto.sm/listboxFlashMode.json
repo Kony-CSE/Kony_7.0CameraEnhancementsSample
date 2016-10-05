@@ -1,0 +1,158 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Select",
+    "_skin_": "s333d4212dd24ae192741046d9f49754",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "accessibilityconfig": {
+        "a11yHidden": false,
+        "a11yHint": "",
+        "a11yLabel": "",
+        "a11yValue": ""
+    },
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.AndroidListBoxProperty",
+        "psp": {
+            "applySkinsToPopup": true,
+            "popupTitle": "Please Select"
+        },
+        "render": true,
+        "viewType": 0
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "channel": "mobile",
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmPhoto",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "enabled": false,
+    "id": "listboxFlashMode",
+    "ide_onSelection": "AS_ListBox_0c54771670c64a1089d9782abfec174f",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.IPhoneListBoxProperty",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "psp": {
+            "groupCells": false
+        },
+        "render": true,
+        "viewType": 0
+    },
+    "isvisible": true,
+    "kuid": "d74e2508b0874b079b2f754f8291b63d",
+    "masterdata": [
+        [
+            "1",
+            "Auto"
+        ],
+        [
+            "2",
+            "On"
+        ],
+        [
+            "3",
+            "Off"
+        ],
+        [
+            "4",
+            "Always On"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "flexFlashMode",
+    "pf": "frmPhoto",
+    "selectedkey": "1",
+    "selectedkeyvalue": [
+        "1",
+        "Auto"
+    ],
+    "selectedkeyvalues": null,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.SPAListBoxProperty"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.SPAAndroidListBoxProperty",
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.SPABBListBoxProperty",
+        "render": false
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.SPAIPhoneListBoxProperty",
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.SPAWinPhone8ListBoxProperty",
+        "render": true
+    },
+    "wType": "ListBox",
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.component.property.listbox.WinPhone8ListBoxProperty",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "render": true
+    },
+    "zindex": 1
+}

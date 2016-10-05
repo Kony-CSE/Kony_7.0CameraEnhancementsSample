@@ -1,0 +1,181 @@
+{
+    "watchos_longlooknotificationicon": "",
+    "createdVizVersion": "2.9.0",
+    "wap_android240_fontsize": "12",
+    "mwaddrkey": "",
+    "createdgaversion": "6.9.0",
+    "wap_android640_fontsize": "12",
+    "winmobileguidkey": "",
+    "desktopwebbasefontsize": "12",
+    "wap_spaandroidtab_fontsize": "12",
+    "apppackagekey": "",
+    "startupformkey": "frmStart",
+    "wap_bb440_fontsize": "12",
+    "wap_spaandroidtabldpi_fontsize": "12",
+    "isA11yConfigEnabled": true,
+    "wap_android480_fontsize": "12",
+    "wap_spawindowstab_fontsize": "12",
+    "defaulttheme": "defaultTheme",
+    "wap_winphone320_fontsize": "12",
+    "appmenu": {
+        "focusSkin": null,
+        "osVersion": "iOS7",
+        "tablet": {
+            "data": [
+                {
+                    "id": "appmenuitemid1",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "title": "Item 1",
+                    "kuid": "ea45080cdcd14a39916d2cd53717f201"
+                },
+                {
+                    "id": "appmenuitemid2",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "title": "Item 2",
+                    "kuid": "d2c99ccec31842b7b6fe3160e36d1d96"
+                },
+                {
+                    "id": "appmenuitemid3",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "title": "Item 3",
+                    "kuid": "81e2fec7dc444af389f347982db33ad8"
+                },
+                {
+                    "id": "appmenuitemid4",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "title": "Item 4",
+                    "kuid": "bfb02f4730ad4211963b4df5163fcfde"
+                }
+            ]
+        },
+        "wType": "Appmenu",
+        "focusskin": null,
+        "osPlatform": "",
+        "desktop": {
+            "data": [
+                {
+                    "id": "appmenuitemid1",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "title": "Item 1",
+                    "kuid": "df65d95847114d4287400b7392a4863f"
+                },
+                {
+                    "id": "appmenuitemid2",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "title": "Item 2",
+                    "kuid": "ce0abc7860f44f49bfa8c91643993ad2"
+                },
+                {
+                    "id": "appmenuitemid3",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "title": "Item 3",
+                    "kuid": "762aeb09daf64b21864b1c33e5229c29"
+                },
+                {
+                    "id": "appmenuitemid4",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "title": "Item 4",
+                    "kuid": "80bcda9377394c259db3018148a54ae1"
+                }
+            ]
+        },
+        "skin": null,
+        "mobile": {
+            "data": [
+                {
+                    "id": "appmenuitemid1",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "title": "Item 1",
+                    "kuid": "bb82a6b18cd543f79b2758416d8d22e6"
+                },
+                {
+                    "id": "appmenuitemid2",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "title": "Item 2",
+                    "kuid": "152fc489ec05494e9f05964738437b88"
+                },
+                {
+                    "id": "appmenuitemid3",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "title": "Item 3",
+                    "kuid": "ad326d8e2d604ec8b57fdad85612975e"
+                },
+                {
+                    "id": "appmenuitemid4",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "title": "Item 4",
+                    "kuid": "4c67c6b46fa84c8281ce974d1559a388"
+                }
+            ]
+        }
+    },
+    "wap_android360_fontsize": "12",
+    "project.type": "js",
+    "appversionkey": "1.0.0",
+    "mwportkey": "",
+    "wap_bb400_fontsize": "12",
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "build": "debug",
+    "wap_android320_fontsize": "12",
+    "statusBarHidden": "false",
+    "wap_winphone480_fontsize": "12",
+    "wap_bb240_fontsize": "12",
+    "wap_bb480_fontsize": "12",
+    "wap_spaandroidtabmdpi_fontsize": "12",
+    "wap_bb320_fontsize": "12",
+    "project_version": "sprint22",
+    "wap_android400_fontsize": "12",
+    "appaddrkey": "",
+    "wap_ip_fontsize": "12",
+    "watchos_homescreenicon": "",
+    "appidkey": "Camera",
+    "currentgaversion": "6.9.0",
+    "watchos_shortlooknotificationicon": "",
+    "watchos_notificationcentericon": "",
+    "mwhttpsportkey": "",
+    "vendornamekey": "KonyLabs",
+    "konyVizVersion": "2.9.0",
+    "appnamekey": "Camera",
+    "APPLICATION_THEME": "default",
+    "wap_spaipad_fontsize": "12",
+    "wap_android440_fontsize": "12",
+    "wap_spaandroidtabhdpi_fontsize": "12",
+    "wap_bb360_fontsize": "12",
+    "nativeContainerProperties": {
+        "isModified": false,
+        "isEnableJSContainer": false,
+        "isEnableJSContainerAndroid": false,
+        "isEnableJSContaineriOS": false
+    },
+    "watchos_shortlooknotificationicon_42": "",
+    "watchos_longlooknotificationicon_42": "",
+    "watchos_shortlooknotificationicon_38": "",
+    "watchos_notificationcentericon_38": "",
+    "watchos_longlooknotificationicon_38": "",
+    "watchos_notificationcentericon_42": "",
+    "enableactionbar": false
+}

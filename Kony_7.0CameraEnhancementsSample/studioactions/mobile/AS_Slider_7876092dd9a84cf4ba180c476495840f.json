@@ -1,0 +1,25 @@
+{
+    "AS_Slider_7876092dd9a84cf4ba180c476495840f": {
+        "id": "AS_Slider_7876092dd9a84cf4ba180c476495840f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "contextObj": {
+            "name": "frmVideo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "8422d716b3c04da08d6044dbd10cdac5"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onSlide_9468d33022d24c3793347db68e1d5578",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setVideoDuration();",
+            "callbackType": null
+        }]
+    }
+}

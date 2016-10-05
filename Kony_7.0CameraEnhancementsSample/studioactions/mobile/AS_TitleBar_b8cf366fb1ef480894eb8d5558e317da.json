@@ -1,0 +1,21 @@
+{
+    "AS_TitleBar_b8cf366fb1ef480894eb8d5558e317da": {
+        "id": "AS_TitleBar_b8cf366fb1ef480894eb8d5558e317da",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___4eaddb24494b428293e283c18e8aa1ab",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmVideo",
+            "formKUID": "c821062521884c079501052049abe7be",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

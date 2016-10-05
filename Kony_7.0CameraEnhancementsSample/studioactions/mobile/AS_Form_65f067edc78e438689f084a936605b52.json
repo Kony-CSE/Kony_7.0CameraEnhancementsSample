@@ -1,0 +1,23 @@
+{
+    "AS_Form_65f067edc78e438689f084a936605b52": {
+        "id": "AS_Form_65f067edc78e438689f084a936605b52",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPhoto",
+            "type": "forms",
+            "platform": "",
+            "KUID": "90a7077da8e049d5afc5d15d70e4bcda"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__f29d260c247d4a60929f1c13d674af59",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setDefaultPhotoOptions();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
